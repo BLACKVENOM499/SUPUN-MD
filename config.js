@@ -9,8 +9,8 @@ function convertToBool(text, fault = 'true') {
 
 
 module.exports = {
-SESSION_ID: process.env.SESSION_ID || 'session id', //add your session id
-MONGODB: process.env.MONGODB || "mongodb url", //add your mongodb url
+SESSION_ID: process.env.SESSION_ID || 'xStEmQSI#VLBaTVnoYRb_NC5Xhb6nQRSndlY5TsUyDW7JgJMoCDk', //add your session id
+MONGODB: process.env.MONGODB || "mongodb+srv://kulathungaasitha319:yjHB0DvFfStNfwPS@cluster0.3oijd.mongodb.net/", //add your mongodb url
  URL : process.env.BOT_MENU_LINKS || 'https://i.ibb.co/bHXBV08/9242c844b83f7bf9.jpg',
 MAX_SIZE: 500
 };
